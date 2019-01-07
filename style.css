@@ -44,7 +44,7 @@ main{
 @media screen and (max-width:768px){
 	main{
 		width: 100%;
-		margin: 50px auto;
+		margin: 30px auto;
 	}
 	.blog {
 		width: 90%;
@@ -58,6 +58,6 @@ main{
 		width: 90%;
 		margin-top: 20px;
 		margin-left: 5%;
-		margin-bottom: 50px;
+		margin-bottom: 20px;
 	}
 }
