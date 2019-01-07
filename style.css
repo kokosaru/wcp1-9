@@ -40,3 +40,27 @@ main{
 .blog h3{
 	padding: 5px;
 }
+
+@media screen and (max-width:768px){
+	main{
+		width: 100%;
+		margin: 50px auto;
+	}
+	.blog {
+		width: 90%;
+		margin-top: 20px;
+		margin-left: 5%;
+	}
+	.blog-image{
+		width: 90%;
+	}
+	.blog:nth-child(3){
+		width: 90%;
+		margin-top: 20px;
+		margin-left: 5%;
+		margin-bottom: 50px;
+	}
+	p {
+		padding:5px;
+	}
+}
